@@ -7,4 +7,4 @@ Then we used VideoPose3D to extract the 3D pose information into the form of npy
 
 For each video, there are 3 coordinates and 17 key points. For each video data , the columns are key points in x, y, and z coordinates (e.g. k0_x, k0_y, k0_z, k1_x, k1_y, k1_z, …, k50_x, k50_y, k50_z,), and the rows represent each frame. 
 HIP = 0
-Here are the keypoints:   R_HIP = 1, R_KNEE = 2, R_FOOT = 3, L_HIP = 4,  L_KNEE = 5,  L_FOOT = 6, SPINE = 7,  THORAX = 8,  NOSE = 9,  HEAD = 10, L_SHOULDER = 11,  L_ELBOW = 12, L_WRIST = 13, R_SHOULDER = 14, R_ELBOW = 15, R_WRIST = 16
+Here are the keypoints:   R_HIP = 1, R_KNEE = 2, R_FOOT = 3, L_HIP = 4,  L_KNEE = 5,  L_FOOT = 6, SPINE = 7,  THORAX = 8,  NOSE = 9,  HEAD = 10, L_SHOULDER = 11,  L_ELBOW = 12, L_WRIST = 13, R_SHOULDER = 14, R_ELBOW = 15, R_WRIST = 16.
